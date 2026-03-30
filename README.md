@@ -36,6 +36,13 @@ It demonstrates how current magnitude varies with both antenna length and freque
 
 ![Current Distribution](current_distribution_multi_frequency.png)
 
+### Radiation Pattern
+
+The radiation pattern illustrates the directional characteristics of the monopole antenna, showing the typical figure-8 behaviour.  
+This confirms the expected radiation properties of the antenna and validates the modelling approach.
+
+![Radiation Pattern](radiation_pattern.png)
+
 ## Note
 This MATLAB implementation forms part of my MSc dissertation on electromagnetic modelling of non-uniform monopole antennas using the Method of Moments (MoM).  
 
