@@ -43,6 +43,13 @@ This confirms the expected radiation properties of the antenna and validates the
 
 ![Radiation Pattern](radiation_pattern.png)
 
+### Input Impedance (Reactive Loading – Single Excitation)
+
+The plot below shows the variation of input impedance for a reactively loaded monopole antenna under single excitation conditions.  
+It illustrates how reactive loading influences impedance behaviour, which is critical for impedance matching and efficient power transfer in antenna systems.
+
+![Input Impedance](input_impedance_reactive_loading.png)
+
 ## Note
 This MATLAB implementation forms part of my MSc dissertation on electromagnetic modelling of non-uniform monopole antennas using the Method of Moments (MoM).  
 
