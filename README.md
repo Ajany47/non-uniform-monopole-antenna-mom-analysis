@@ -27,6 +27,14 @@ This work provides a foundational framework for:
 - Electromagnetic simulation and modelling
 
 ---
+## Results
+
+### Current Distribution (Multi-Frequency Analysis)
+
+The figure below shows the current distribution along the monopole antenna at different operating frequencies (300 MHz – 360 MHz).  
+It demonstrates how current magnitude varies with both antenna length and frequency, highlighting the electromagnetic behaviour of the non-uniform monopole structure.
+
+![Current Distribution](results/current_distribution_multi_frequency.png)
 
 ## Note
 This MATLAB implementation forms part of my MSc dissertation on electromagnetic modelling of non-uniform monopole antennas using the Method of Moments (MoM).  
